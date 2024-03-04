@@ -1,0 +1,18 @@
+
+body {
+    background-image: url(pngtree-landscape-landscape-photo-image_2902263.jpg);
+    background-size: cover;
+}
+
+.Formulario input, .Formulario button {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.Formulario button {
+    background-color: lightblue;
+    color: rgb(5, 15, 11);
+}
